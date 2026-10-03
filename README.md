@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mujtbabbas&style=for-the-badge&color=blue)](https://github.com/mujtbabbas)
+[![Profile Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmujtbabbas&label=PROFILE%20VIEWS&labelColor=%230d1117&countColor=%2300f2fe&style=for-the-badge)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmujtbabbas)
 [![GitHub followers](https://img.shields.io/github/followers/mujtbabbas?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=0D1117)](https://github.com/mujtbabbas)
 [![Repositories](https://img.shields.io/badge/Public%20Repos-20-EC4899?style=for-the-badge&labelColor=0D1117&logo=github)](https://github.com/mujtbabbas?tab=repositories)
 
