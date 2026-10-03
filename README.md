@@ -44,12 +44,14 @@ I am a **Full-Stack Engineer** specializing in robust, high-performance applicat
 ### ⚡ Quick Facts
 
 ```diff
-+ 🚀 Shipped Falcon Invoice System
-+ 🛒 Built Phone Markaz Marketplace
-+ ✈️ Architected Divine Fly Desk
-+ 💻 Laravel & Next.js Ecosystems
-+ 📊 Deep Focus on Analytics
-+ 🎨 UI/UX Perfectionist
++ 🚀 Architected enterprise systems like Divine Fly Desk & Falcon Invoice
++ 🛒 Built Phone Markaz and scalable e-commerce platforms
++ 🚚 Core Contributor to DONG (B2B2C Logistics Platform)
++ 🏥 Developed METTS to prevent medicine expiration in rural clinics
++ 🤝 Active collaborator across organizations (wearegravite, The-Indent)
++ 💻 Mastery in Next.js, TypeScript, Laravel, and Vue
++ 📊 Built platforms spanning FinTech, AgriTech, and HealthTech
++ 🎨 UI/UX Perfectionist with a deep focus on SaaS analytics
 ```
 
 </td>
