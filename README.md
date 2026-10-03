@@ -8,9 +8,9 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mujtbabbas&label=Profile%20Views&color=00F2FE&style=for-the-badge)](https://github.com/mujtbabbas)
+[![Profile Views](https://komarev.com/ghpvc/?username=mujtbabbas&style=for-the-badge&color=blue)](https://github.com/mujtbabbas)
 [![GitHub followers](https://img.shields.io/github/followers/mujtbabbas?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=0D1117)](https://github.com/mujtbabbas)
-[![Repositories](https://img.shields.io/github/repos/mujtbabbas?label=Repositories&style=for-the-badge&color=EC4899&labelColor=0D1117)](https://github.com/mujtbabbas)
+[![Repositories](https://img.shields.io/badge/Public%20Repos-20-EC4899?style=for-the-badge&labelColor=0D1117&logo=github)](https://github.com/mujtbabbas?tab=repositories)
 
 </div>
 
