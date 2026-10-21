@@ -26,12 +26,19 @@ I build production-grade platforms end to end — architecture, backend, fronten
 
 | Platform | What it is |
 | --- | --- |
-| **Divine Fly** | Travel agency platform — flight search & booking, ticketing desk, payments (bank, Easypaisa, JazzCash, Raast) |
+| **Divine Fly** | Travel agency platform — flight search & booking, ticketing, payments (bank, Easypaisa, JazzCash, Raast) |
+| **divineflydesk** | Internal operations desk for Divine Fly — ticketing, fare calculations, fraud controls |
+| **divineflyagent** | Agent portal for Divine Fly partners — bookings, wallets, and commissions |
+| **iDesire** | Digital-products marketplace and learning platform with Stripe payments |
 | **Falcon Invoice** | Installable PWA for invoicing, billing, and challans with client management and offline support |
+| **Numbrics** | Tax preparation software |
 | **Phone Markaz** | Marketplace for buying and selling mobile phones, built for trust and safety |
-| **iDesire Academy** | Digital-products marketplace and learning platform with Stripe payments |
-| **Divine Fly Desk** | Back-office system for high-volume travel agencies — fare calculations, fraud controls, AI-assisted documents |
-| **Hostel Management System** | Tenant, room allocation, and billing management for hostels |
+| **FillBs** | Food-system platform — ordering and day-to-day food business operations |
+| **DONG** | Client platform for product and service management |
+| **dong-hms** | Management system (HMS) built for the DONG platform |
+| **HostelMarkaz** | Hostel discovery and management — rooms, tenants, and billing |
+| **AgriTrace** | Agriculture supply-chain traceability platform |
+| **HUIC-ETS** | Hamdard University employee transport management system |
 
 ## Open Source
 
