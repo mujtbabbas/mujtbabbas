@@ -138,6 +138,12 @@ I maintain **33 standalone editions** of well-known open-source projects — eac
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+## GitHub Achievements
+
+- **Pull Shark x2 (Bronze)** — 16+ pull requests merged (100+ merged PRs across product and open-source work to date)
+- **YOLO** — merged a pull request without review
+- **Developer Program Member** — shown under Highlights on my profile
+
 ## GitHub Stats
 
 <p align="center">
