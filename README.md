@@ -40,6 +40,25 @@ I build production-grade platforms end to end — architecture, backend, fronten
 | **AgriTrace** | Agriculture supply-chain traceability platform |
 | **HUIC-ETS** | Hamdard University employee transport management system |
 
+## Live Projects
+
+The production platforms above, live on the web:
+
+| Platform | Link |
+| --- | --- |
+| Divine Fly | [divinefly.pk](https://divinefly.pk) |
+| Divine Fly Desk | [desk.divinefly.pk](https://desk.divinefly.pk) |
+| iDesire | [idesire.io](https://idesire.io) |
+| Numbrics | [numbrics.ai](https://numbrics.ai) |
+| Phone Markaz | [phonemarkaz.com](https://phonemarkaz.com) |
+| FillBs | [fillbs.com](https://fillbs.com) |
+| DONG | [dong.pk](https://dong.pk) |
+| FDE Works | [fdeworks.com](https://fdeworks.com) |
+| Meadow Inn Travel | [meadowinntravel.pk](https://meadowinntravel.pk) |
+| OptiRev Healthcare | [optirevhealthcare.com](https://optirevhealthcare.com) |
+| North Supermart | [northsupermart.pk](https://northsupermart.pk) |
+| Oasis Resort Skardu | [oasisresortskardu.com](https://oasisresortskardu.com) |
+
 ## Open Source
 
 I maintain **33 standalone editions** of well-known open-source projects — each rebased on its upstream, documented, and kept CI-green. Highlights:
