@@ -61,7 +61,7 @@ The production platforms above, live on the web:
 
 ## Open Source
 
-I maintain **33 standalone editions** of well-known open-source projects — each rebased on its upstream, documented, and kept CI-green. Highlights:
+I maintain **33 standalone editions** of well-known open-source projects — each rebased on its upstream, documented, and kept CI-green. Every edition ships with a `CHANGELOG.md` for its version history and a `GUIDE.md` reader's guide to the project. Highlights:
 
 - [Python](https://github.com/mujtbabbas/Python) · [system-design-primer](https://github.com/mujtbabbas/system-design-primer) · [scrcpy](https://github.com/mujtbabbas/scrcpy)
 - [markitdown](https://github.com/mujtbabbas/markitdown) · [javascript-algorithms](https://github.com/mujtbabbas/javascript-algorithms) · [awesome-go](https://github.com/mujtbabbas/awesome-go)
