@@ -140,7 +140,10 @@ I maintain **33 standalone editions** of well-known open-source projects — eac
 
 ## GitHub Achievements
 
-- **Pull Shark x2 (Bronze)** — 16+ pull requests merged (100+ merged PRs across product and open-source work to date)
+- **Pull Shark (Silver)** — 128+ pull requests merged across product and open-source work
+- **Starstruck** — [FreeDomain](https://github.com/mujtbabbas/FreeDomain) passed 16 stars
+- **Quickdraw** — closed an issue within five minutes of opening it
+- **Galaxy Brain** — 2 answers accepted in GitHub Discussions Q&A
 - **YOLO** — merged a pull request without review
 - **Developer Program Member** — shown under Highlights on my profile
 
